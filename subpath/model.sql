@@ -1,1 +1,1 @@
-SELECT * FROM model;
+SELECT id FROM MODEL; -- update same line
